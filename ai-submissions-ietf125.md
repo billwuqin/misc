@@ -1,5 +1,6 @@
 | I-D                                                          | Topic/Scope|
 |-------------------------------------------------------------:|:-----------|
+| draft-fu-nmop-agent-communication-framework Agent Communication Framework for Network AIOps |Network Management|
 | draft-wmz-nmrg-agent-ndt-arch-03 Network Digital Twin and Agentic AI based Architecture for AI driven Network Operations |Network Management|
 | draft-hong-nmrg-agenticai-ps-01 Motivations and Problem Statement of Agentic AI for network management |Network Management|
 | draft-yang-nmrg-mcp-nm-02 Applicability of MCP for the Network Management| Network Management|
